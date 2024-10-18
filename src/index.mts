@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 import { Args, Command, Options } from "@effect/cli";
 import { NodeContext, NodeRuntime } from "@effect/platform-node";
 import { Console, Effect, Option } from "effect";
