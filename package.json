@@ -1,7 +1,7 @@
 {
   "name": "@beavercoding/block-builder",
   "author": "Orlein <pcj9024@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "publishConfig": {
